@@ -4,3 +4,5 @@ env-python2/
 build/
 *.sw*
 *.egg-info
+.v20_demo.conf
+.v20_live.conf
